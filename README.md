@@ -1,4 +1,7 @@
-# rumahsakit
-aplikasi rekam medis PHP template simple sidebar 1.0.1
-untuk tutorialnya bisa dilihat di 
-https://www.youtube.com/playlist?list=PLTagRbmJ8ettXwsd6QJ2D7SO_QV3GSBC8
+UTS SISTEM BIOMEDIS
+
+ANGGOTA KELOMPOK :
+1. Dyah Ayu Purboningtyas (32602000023)
+2. M. Alan Nur Ilkhan (32602000036)
+3. Miryati (32602000040)
+4. Muhammad Luqi Wiharto (32602000042)
